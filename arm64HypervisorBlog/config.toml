@@ -1,0 +1,4 @@
+baseURL = "http://sikkiladho.github.io/"
+languageCode = "en-us"
+title = "ARM64 Hypervisor Tutorial"
+theme="PaperMod"
