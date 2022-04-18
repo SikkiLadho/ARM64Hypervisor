@@ -1,4 +1,4 @@
-baseURL = "http://sikkiladho.github.io/"
+baseURL = "http://arm64hypervisor.com/"
 languageCode = "en-us"
 title = "ARM64 Hypervisor Tutorial"
 theme="PaperMod"
