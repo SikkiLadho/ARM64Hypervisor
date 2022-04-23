@@ -4,7 +4,7 @@ theme: PaperMod
 googleAnalytics: G-DDM8356YPK
 
 params:
-    env: production 
+    env: production
     description: ""
     author: Mushahid Hussain
     defaultTheme: auto
@@ -21,7 +21,7 @@ params:
     images: ["papermod-cover.png"]
     profileMode:
         enabled: false
-        title: PaperMod
+        title: ARM64 Hypervisor
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -32,7 +32,7 @@ params:
             - name: Tags
               url: tags
     homeInfoParams:
-        Title: "ARM64/AARCH64 Hypervisor"
+        Title: ""
         Content: >
             Welcome to ARM64/AARCH64 Hypervisor blog. I'm Mushahid Hussain and I'll be writing about Hypervisor and Virtualization on on this blog. Checkout my series on building a hypervisor!
     socialIcons:
