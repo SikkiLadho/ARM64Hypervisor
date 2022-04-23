@@ -1,0 +1,10 @@
+baseURL: "http://arm64hypervisor.com/"
+title: ARM64 Hypervisor Tutorial
+theme: PaperMod
+googleAnalytics: G-DDM8356YPK
+
+socialIcons:
+  - name: twitter
+    url: "https://linkedin.com/in/mhussainshar"
+  - name: github
+    url: "https://github.com/sikkiladho"

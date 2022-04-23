@@ -1,5 +1,0 @@
-baseURL = "http://arm64hypervisor.com/"
-languageCode = "en-us"
-title = "ARM64 Hypervisor Tutorial"
-theme="PaperMod"
-googleAnalytics = "G-DDM8356YPK"
