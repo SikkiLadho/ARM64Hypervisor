@@ -3,8 +3,42 @@ title: ARM64 Hypervisor Tutorial
 theme: PaperMod
 googleAnalytics: G-DDM8356YPK
 
-socialIcons:
-  - name: linkedin
-    url: "https://linkedin.com/in/mhussainshar"
-  - name: github
-    url: "https://github.com/sikkiladho"
+params:
+    env: production 
+    description: "ARM64/AARCH64 Hypervisor"
+    author: Mushahid Hussain
+    defaultTheme: auto
+      # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+      # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+    homeInfoParams:
+        Title: "PaperMod"
+        Content: >
+            Welcome to ARM64/AARCH64 Hypervisor blog. I'm Mushahid Hussain and I'll be writing about Hypervisor and Virtualization on on this blog. Checkout my series on building a hypervisor!
+    socialIcons:
+        - name: github
+          url: "https://github.com/adityatelange/hugo-PaperMod"
+        - name: KoFi
+          url: "https://ko-fi.com/adityatelange"
+        - name: RsS
+          url: "index.xml"
