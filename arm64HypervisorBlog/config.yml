@@ -5,7 +5,7 @@ googleAnalytics: G-DDM8356YPK
 
 params:
     env: production 
-    description: "ARM64/AARCH64 Hypervisor"
+    description: ""
     author: Mushahid Hussain
     defaultTheme: auto
       # disableThemeToggle: true
