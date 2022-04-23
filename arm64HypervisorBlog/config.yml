@@ -22,9 +22,6 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
                 - name: Categories
                   url: categories/
                   weight: 10
@@ -55,8 +52,6 @@ params:
         buttons:
             - name: Archives
               url: archives
-            - name: Tags
-              url: tags
     homeInfoParams:
         Title: "ARM64 Hypervisor"
         Content: >
