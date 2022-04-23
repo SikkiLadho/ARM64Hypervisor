@@ -3,6 +3,7 @@
 title: "Tutorial: Introduction"
 author: "Mushahid Hussain(SikkiLadho)"
 date: 2022-04-16T23:24:05+05:00
+categories: ["tutorial", "hypervisor"]
 
 ---
 This is a series of tutorials that I never had a year ago when I decided to write a bare metal hypervisor on Raspberry Pi 4, [Leo Hypervisor](http://gihtub.com/sikkiladho/leo). I did not have prior experience with bare-metal or even kernel development. Therefore, I will be sharing all that I have learned in following series of tutorials. You are welcome to contribute to this project and I would also love to learn from you. I'm really excited that we're on this journey together.
