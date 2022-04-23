@@ -31,4 +31,4 @@ We will also use Trusted Firmware-A(TF-A) as the firmware implementation for ras
 
 You will be using UART serial console to debug your hypervisor. Therefore, you'll need to learn to use a serial console with raspberry pi. Don't worry, Adafruit has [great tutorial](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/overview) on it.
 
-For now this is all we need. In the next post, we will be able to boot a hypervisor binary.
+For now this is all we need. In the next post, we will be learning about ARMv8 Exception Levels.

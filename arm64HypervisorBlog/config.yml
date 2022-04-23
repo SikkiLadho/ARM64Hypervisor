@@ -3,6 +3,32 @@ title: ARM64 Hypervisor
 theme: PaperMod
 googleAnalytics: G-DDM8356YPK
 
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: About
+                  url: about
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+
 params:
     env: production
     description: ""
