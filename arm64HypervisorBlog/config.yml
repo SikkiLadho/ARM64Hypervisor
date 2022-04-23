@@ -4,6 +4,8 @@ theme: PaperMod
 googleAnalytics: G-DDM8356YPK
 
 
+
+
 languages:
     en:
         languageName: "English"
@@ -25,6 +27,11 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 params:
     env: production
@@ -61,3 +68,5 @@ params:
           url: "https://github.com/sikkiladho/leo"
         - name: linkedin
           url: "http://linkedin.com/in/mhussainshar"
+        - name: RsS
+          url: "index.xml"
