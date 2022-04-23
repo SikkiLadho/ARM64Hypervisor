@@ -1,6 +1,6 @@
 ---
 
-title: "Day 0: Introduction"
+title: "Tutorial: Introduction"
 author: "Mushahid Hussain(SikkiLadho)"
 date: 2022-04-16T23:24:05+05:00
 
