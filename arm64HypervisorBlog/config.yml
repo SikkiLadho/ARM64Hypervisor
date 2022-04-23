@@ -32,9 +32,9 @@ params:
             - name: Tags
               url: tags
     homeInfoParams:
-        Title: ""
+        Title: "ARM64 Hypervisor"
         Content: >
-            Welcome to ARM64/AARCH64 Hypervisor blog. I'm Mushahid Hussain and I'll be writing about Hypervisor and Virtualization on on this blog. Checkout my series on building a hypervisor!
+            Welcome to ARM64/AArch64 Hypervisor blog. I'm Mushahid Hussain and I'll be writing about Hypervisor and Virtualization on on this blog. Checkout my series on building a hypervisor!
     socialIcons:
         - name: github
           url: "https://github.com/sikkiladho/leo"
