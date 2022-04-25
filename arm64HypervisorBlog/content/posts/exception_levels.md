@@ -1,6 +1,6 @@
 ---
 
-title: "Tutorial: Exception Levels"
+title: "Tutorial 1: Exception Levels"
 author: "Mushahid Hussain(SikkiLadho)"
 categories: ["tutorial", "hypervisor"]
 
