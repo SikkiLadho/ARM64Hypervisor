@@ -62,7 +62,7 @@ params:
     homeInfoParams:
         Title: "ARM64 Hypervisor"
         Content: >
-            Welcome to ARM64/AArch64 Hypervisor blog. I'm Mushahid Hussain and I'll be writing about operating systems, hypervisors and virtualization. Checkout my [series](https://arm64hypervisor.com/categories/tutorial/) on building a hypervisor!
+            Welcome to ARM64/AArch64 Hypervisor blog. I'm Mushahid Hussain and I'll be writing about operating systems, hypervisors, and virtualization. Checkout my [series](https://arm64hypervisor.com/categories/tutorial/) on building a hypervisor!
     socialIcons:
         - name: github
           url: "https://github.com/sikkiladho/leo"
