@@ -19,7 +19,7 @@ languages:
                 - name: About
                   url: about
                 - name: Archive
-                  url: archives
+                  url: archives/
                   weight: 5
                 - name: Search
                   url: search/
