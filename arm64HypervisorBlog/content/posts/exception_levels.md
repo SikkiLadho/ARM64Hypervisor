@@ -6,7 +6,7 @@ categories: ["tutorial", "hypervisor"]
 
 ---
 
-Today, we try to write a simple bootable hypervisor binary with just a blank screen(have patience, we'll make it print the hello world too, but in the future).
+Today, we will be learning about exception levels.(have patience, we'll write actual code too, but in the next post.)
 Exceptions levels define execution privilege at each level. There are 4 exception levels in ARMv8 architecture.
 
  - **Exception Level 0 (EL0)**: This Exception Level or Privilege Level is commonly used by userspace applications. Firefox, Libreoffice, VLC Media Player, and VirtualBox are a few examples of userspace applications.
